@@ -4,7 +4,7 @@
     android:background="@android:color/black"
     android:orientation="vertical">
 
-    <LinearLayout
+    <!--<LinearLayout
         android:id="@+id/topBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -52,7 +52,7 @@
             android:singleLine="true"
             android:text="B and W"
             android:textColor="@android:color/white" />
-    </LinearLayout>
+    </LinearLayout>-->
 
     <Button
         android:id="@+id/doneButton"
